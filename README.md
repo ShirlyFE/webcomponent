@@ -31,8 +31,7 @@ Any HTML and CSS inside of the shadow root is protected from the parent document
 <p data-height="268" data-theme-id="0" data-slug-hash="eJZEBq" data-default-tab="result" data-user="ShirlyFE" class='codepen'><a href='http://codepen.io/ShirlyFE/pen/eJZEBq/'>See a simple component demo </a> by shirly (<a href='http://codepen.io/ShirlyFE'>@ShirlyFE</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
-<iframe height="268" scrolling="no" src="//codepen.io/ShirlyFE/embed/eJZEBq/?height=268&theme-id=0&default-tab=result" frameborder="no" allowtransparency="true" allowfullscreen="true" style="width: 100%;">See the Pen <a href="http://codepen.io/ShirlyFE/pen/eJZEBq/">eJZEBq</a> by shirly (<a href="http://codepen.io/ShirlyFE">@ShirlyFE</a>) on <a href="http://codepen.io">CodePen</a>.
-</iframe>
+<iframe height="268" scrolling="no" src='//codepen.io/ShirlyFE/embed/eJZEBq/?height=268&theme-id=0&default-tab=result' frameborder="no" allowtransparency="true" allowfullscreen="true" style="width: 100%;"></iframe>See the Pen <a href='http://codepen.io/ShirlyFE/pen/eJZEBq/'>eJZEBq</a> by shirly (<a href='http://codepen.io/ShirlyFE'>@ShirlyFE</a>) on <a href="http://codepen.io">CodePen</a>.
 
 ## resources
 
